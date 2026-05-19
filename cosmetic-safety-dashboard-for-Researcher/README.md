@@ -36,6 +36,3 @@ streamlit run dashboard.py
 - `dashboard.py`는 프로젝트 루트 폴더 내의 `data/` 폴더에서 데이터를 로드합니다.
 - `data/` 폴더와 그 안의 4개 CSV 파일이 모두 존재해야 합니다.
 
-## 참고
-
-- 추가 데이터나 전처리 파일(`dataclean.ipynb`, `merged_*`, 테스트 HTML 등)은 앱 실행에 직접 필요하지 않으므로 업로드 시 선택적으로 포함하십시오.
